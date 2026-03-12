@@ -1,0 +1,29 @@
+{
+  "american_pie": {
+    "sounds": [
+      {
+        "name": "gnkraft:american_pie",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "the_art_of_dying": {
+    "sounds": [
+      {
+        "name": "gnkraft:the_art_of_dying",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "teardrop": {
+    "sounds": [
+      {
+        "name": "gnkraft:teardrop",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  }
+}

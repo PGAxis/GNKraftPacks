@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "american_pie",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/american_pie_disc"
+        }
+      },
+      {
+        "when": "blank",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/blank_disc"
+        }
+      },
+      {
+        "when": "the_art_of_dying",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/the_art_of_dying_disc"
+        }
+      },
+      {
+        "when": "teardrop",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/teardrop_disc"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/music_disc_13"
+    }
+  }
+}

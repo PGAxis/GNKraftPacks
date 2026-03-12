@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:copper_ingot",
+    "P": "minecraft:paper"
+  },
+  "pattern": [
+    "###",
+    "#P#",
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Blank disk",
+        "type": "text",
+        "color": "aqua",
+        "italic": false
+      },
+      "minecraft:jukebox_playable": "gnkraft:silent",
+      "minecraft:custom_model_data": {
+        "strings": [
+          "blank"
+        ]
+      }
+    },
+    "count": 1,
+    "id": "minecraft:music_disc_13"
+  }
+}

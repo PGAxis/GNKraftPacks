@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:redstone",
+    "X": "#minecraft:music_discs",
+    "P": "minecraft:lapis_lazuli"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "#P#"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Music Disc",
+        "type": "text",
+        "color": "aqua",
+        "italic": false
+      },
+      "minecraft:jukebox_playable": "gnkraft:teardrop",
+      "minecraft:custom_model_data": {
+        "strings": [
+          "teardrop"
+        ]
+      }
+    },
+    "count": 1,
+    "id": "minecraft:music_disc_13"
+  }
+}

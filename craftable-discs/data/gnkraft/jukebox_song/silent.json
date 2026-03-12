@@ -1,0 +1,9 @@
+{
+  "description": "Silent",
+  "comparator_output": 0,
+  "length_in_seconds": 1,
+  "sound_event": {
+    "sound_id": "minecraft:intentionally_empty",
+    "range": 16
+  }
+}
