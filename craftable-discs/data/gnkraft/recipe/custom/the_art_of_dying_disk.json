@@ -4,7 +4,7 @@
   "key": {
     "#": "minecraft:redstone",
     "X": "#minecraft:music_discs",
-    "P": "minecraft:blackstone"
+    "P": "minecraft:glow_ink_sac"
   },
   "pattern": [
     "###",

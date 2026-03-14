@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:redstone",
+    "X": "#minecraft:music_discs",
+    "P": "minecraft:minecart"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "#P#"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Music Disc",
+        "type": "text",
+        "color": "aqua",
+        "italic": false
+      },
+      "minecraft:jukebox_playable": "gnkraft:metamorphosis",
+      "minecraft:custom_model_data": {
+        "strings": [
+          "metamorphosis"
+        ]
+      }
+    },
+    "count": 1,
+    "id": "minecraft:music_disc_13"
+  }
+}

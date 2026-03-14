@@ -1,7 +1,7 @@
 {
   "description": "Massive Attack - Teardrop (Dr. House intro)",
   "comparator_output": 10,
-  "length_in_seconds": 512,
+  "length_in_seconds": 330,
   "sound_event": {
     "sound_id": "gnkraft:teardrop"
   }
