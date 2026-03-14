@@ -3,6 +3,7 @@
     "sounds": [
       {
         "name": "gnkraft:american_pie",
+        "attenuation_distance": 64,
         "stream": true,
         "volume": 1.0
       }
@@ -12,6 +13,7 @@
     "sounds": [
       {
         "name": "gnkraft:the_art_of_dying",
+        "attenuation_distance": 64,
         "stream": true,
         "volume": 1.0
       }
@@ -21,6 +23,17 @@
     "sounds": [
       {
         "name": "gnkraft:teardrop",
+        "attenuation_distance": 64,
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "metamorphosis": {
+    "sounds": [
+      {
+        "name": "gnkraft:metamorphosis",
+        "attenuation_distance": 64,
         "stream": true,
         "volume": 1.0
       }

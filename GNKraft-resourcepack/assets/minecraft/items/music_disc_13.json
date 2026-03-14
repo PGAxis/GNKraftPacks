@@ -31,7 +31,14 @@
           "type": "minecraft:model",
           "model": "minecraft:item/teardrop_disc"
         }
-      }
+      },
+      {
+        "when": "metamorphosis",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/metamorphosis_disc"
+        }
+      }      
     ],
     "fallback": {
       "type": "minecraft:model",
