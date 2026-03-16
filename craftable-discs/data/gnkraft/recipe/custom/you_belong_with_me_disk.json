@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:redstone",
+    "X": "#minecraft:music_discs",
+    "P": "minecraft:resin_clump"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "#P#"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Music Disc",
+        "type": "text",
+        "color": "aqua",
+        "italic": false
+      },
+      "minecraft:jukebox_playable": "gnkraft:you_belong_with_me",
+      "minecraft:custom_model_data": {
+        "strings": [
+          "you_belong_with_me"
+        ]
+      }
+    },
+    "count": 1,
+    "id": "minecraft:music_disc_13"
+  }
+}

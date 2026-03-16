@@ -1,0 +1,8 @@
+{
+  "description": "Taylor Swift - You Belong With Me",
+  "comparator_output": 10,
+  "length_in_seconds": 230,
+  "sound_event": {
+    "sound_id": "gnkraft:you_belong_with_me"
+  }
+}
