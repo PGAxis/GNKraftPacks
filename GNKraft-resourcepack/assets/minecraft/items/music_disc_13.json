@@ -38,6 +38,13 @@
           "type": "minecraft:model",
           "model": "minecraft:item/metamorphosis_disc"
         }
+      },
+      {
+        "when": "you_belong_with_me",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/you_belong_with_me_disc"
+        }
       }      
     ],
     "fallback": {
